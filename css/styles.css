@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f7fb;
-  color: #243247;
+  background-color: #D9D0DE;
+  color: #0C0F0A;
   max-width: 900px;
   margin: 0 auto;
   padding: 24px;
@@ -9,9 +9,9 @@ body {
 }
 
 h1 {
-  color: #123c69;
+  color: #307473;
 }
 
 h2 {
-  color: #24527a;
+  color: #7B5E7B;
 }
